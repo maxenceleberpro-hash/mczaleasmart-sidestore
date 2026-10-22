@@ -1,0 +1,22 @@
+{
+  "name": "MCZAleaSmart",
+  "identifier": "fr.maxence.mczaleasmart.source",
+  "sourceURL": "https://raw.githubusercontent.com/maxenceleberpro-hash/mczaleasmart-sidestore/main/source.json",
+  "iconURL": "https://raw.githubusercontent.com/maxenceleberpro-hash/mczaleasmart-sidestore/main/icon.png",
+  "tintColor": "#FF7A1A",
+  "apps": [
+    {
+      "name": "MCZAleaSmart",
+      "bundleIdentifier": "fr.maxence.mczaleasmart",
+      "developerName": "Maxence",
+      "subtitle": "Pilotage du poêle à granulés",
+      "localizedDescription": "Pilote le poêle à granulés via Home Assistant : modes, horaires, Éco Stop, granulés.",
+      "iconURL": "https://raw.githubusercontent.com/maxenceleberpro-hash/mczaleasmart-sidestore/main/icon.png",
+      "tintColor": "#FF7A1A",
+      "category": "utilities",
+      "versions": [],
+      "appPermissions": { "entitlements": [], "privacy": {} }
+    }
+  ],
+  "news": []
+}
