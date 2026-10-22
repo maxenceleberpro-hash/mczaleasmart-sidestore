@@ -14,8 +14,21 @@
       "iconURL": "https://raw.githubusercontent.com/maxenceleberpro-hash/mczaleasmart-sidestore/main/icon.png",
       "tintColor": "#FF7A1A",
       "category": "utilities",
-      "versions": [],
-      "appPermissions": { "entitlements": [], "privacy": {} }
+      "versions": [
+        {
+          "version": "1.0",
+          "buildVersion": "1",
+          "date": "2026-10-22",
+          "localizedDescription": "Première version : poêle, horaires, Éco Stop, granulés, widgets, maison de Fred.",
+          "downloadURL": "https://github.com/maxenceleberpro-hash/mczaleasmart-sidestore/releases/download/v1.0-1/MCZAleaSmart.ipa",
+          "size": 1223203,
+          "minOSVersion": "26.0"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      }
     }
   ],
   "news": []
