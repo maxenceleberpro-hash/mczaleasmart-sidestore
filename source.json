@@ -16,6 +16,15 @@
       "category": "utilities",
       "versions": [
         {
+          "version": "1.3",
+          "buildVersion": "4",
+          "date": "2026-10-29",
+          "localizedDescription": "Mode Silence : coupe la ventilation depuis la fiche Ventilation (comme le OFF de l'app MCZ)",
+          "downloadURL": "https://github.com/maxenceleberpro-hash/mczaleasmart-sidestore/releases/download/v1.3-4/MCZAleaSmart.ipa",
+          "size": 1294636,
+          "minOSVersion": "26.0"
+        },
+        {
           "version": "1.2",
           "buildVersion": "3",
           "date": "2026-10-28",
