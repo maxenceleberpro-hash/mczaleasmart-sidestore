@@ -16,6 +16,15 @@
       "category": "utilities",
       "versions": [
         {
+          "version": "1.5",
+          "buildVersion": "6",
+          "date": "2026-10-30",
+          "localizedDescription": "État du poêle : touche le ⓘ au centre du cadran pour voir l'état exact du poêle et ce qu'il veut dire.",
+          "downloadURL": "https://github.com/maxenceleberpro-hash/mczaleasmart-sidestore/releases/download/v1.5-6/MCZAleaSmart.ipa",
+          "size": 1384375,
+          "minOSVersion": "26.0"
+        },
+        {
           "version": "1.4",
           "buildVersion": "5",
           "date": "2026-10-30",
