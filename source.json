@@ -16,6 +16,15 @@
       "category": "utilities",
       "versions": [
         {
+          "version": "1.6",
+          "buildVersion": "7",
+          "date": "2026-10-30",
+          "localizedDescription": "Assistant Claude : maintiens la tuile Claude pour parler, ou écris-lui. Il propose, tu valides. Marche aussi pour les horaires.",
+          "downloadURL": "https://github.com/maxenceleberpro-hash/mczaleasmart-sidestore/releases/download/v1.6-7/MCZAleaSmart.ipa",
+          "size": 1526421,
+          "minOSVersion": "26.0"
+        },
+        {
           "version": "1.5",
           "buildVersion": "6",
           "date": "2026-10-30",
