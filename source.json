@@ -16,6 +16,15 @@
       "category": "utilities",
       "versions": [
         {
+          "version": "1.7",
+          "buildVersion": "8",
+          "date": "2026-10-31",
+          "localizedDescription": "Widget Poêle : température, Allumage, Trémie, anneau de la cible",
+          "downloadURL": "https://github.com/maxenceleberpro-hash/mczaleasmart-sidestore/releases/download/v1.7-8/MCZAleaSmart.ipa",
+          "size": 1630878,
+          "minOSVersion": "26.0"
+        },
+        {
           "version": "1.6",
           "buildVersion": "7",
           "date": "2026-10-30",
