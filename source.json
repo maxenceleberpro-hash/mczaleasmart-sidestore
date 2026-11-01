@@ -16,6 +16,15 @@
       "category": "utilities",
       "versions": [
         {
+          "version": "1.9.1",
+          "buildVersion": "12",
+          "date": "2026-11-01",
+          "localizedDescription": "Corrige la fermeture de l'app à l'ouverture des statistiques.",
+          "downloadURL": "https://github.com/maxenceleberpro-hash/mczaleasmart-sidestore/releases/download/v1.9.1-12/MCZAleaSmart.ipa",
+          "size": 1849934,
+          "minOSVersion": "26.0"
+        },
+        {
           "version": "1.9",
           "buildVersion": "11",
           "date": "2026-11-01",
