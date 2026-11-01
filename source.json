@@ -16,6 +16,15 @@
       "category": "utilities",
       "versions": [
         {
+          "version": "1.9",
+          "buildVersion": "11",
+          "date": "2026-11-01",
+          "localizedDescription": "Statistiques : la courbe de température de chaque pièce, avec les moments où le chauffage est en route, et la consommation en kWh et en euros. Touche la température d'une pièce dans l'onglet Chauffages.",
+          "downloadURL": "https://github.com/maxenceleberpro-hash/mczaleasmart-sidestore/releases/download/v1.9-11/MCZAleaSmart.ipa",
+          "size": 1851789,
+          "minOSVersion": "26.0"
+        },
+        {
           "version": "1.8",
           "buildVersion": "10",
           "date": "2026-11-01",
