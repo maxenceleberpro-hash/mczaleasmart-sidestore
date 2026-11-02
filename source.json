@@ -16,6 +16,15 @@
       "category": "utilities",
       "versions": [
         {
+          "version": "1.9.2",
+          "buildVersion": "13",
+          "date": "2026-11-02",
+          "localizedDescription": "Plus d'arrêt pour le bureau et la chambre : hors gel à la place, le radiateur ne bipe plus.",
+          "downloadURL": "https://github.com/maxenceleberpro-hash/mczaleasmart-sidestore/releases/download/v1.9.2-13/MCZAleaSmart.ipa",
+          "size": 1849951,
+          "minOSVersion": "26.0"
+        },
+        {
           "version": "1.9.1",
           "buildVersion": "12",
           "date": "2026-11-01",
