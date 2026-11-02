@@ -16,6 +16,15 @@
       "category": "utilities",
       "versions": [
         {
+          "version": "1.9.3",
+          "buildVersion": "14",
+          "date": "2026-11-02",
+          "localizedDescription": "Hors gel du bureau à 8 °C.",
+          "downloadURL": "https://github.com/maxenceleberpro-hash/mczaleasmart-sidestore/releases/download/v1.9.3-14/MCZAleaSmart.ipa",
+          "size": 1849909,
+          "minOSVersion": "26.0"
+        },
+        {
           "version": "1.9.2",
           "buildVersion": "13",
           "date": "2026-11-02",
