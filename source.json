@@ -16,6 +16,15 @@
       "category": "utilities",
       "versions": [
         {
+          "version": "1.10",
+          "buildVersion": "16",
+          "date": "2026-11-06",
+          "localizedDescription": "Nouvelle version",
+          "downloadURL": "https://github.com/maxenceleberpro-hash/mczaleasmart-sidestore/releases/download/v1.10-16/MCZAleaSmart.ipa",
+          "size": 1958808,
+          "minOSVersion": "26.0"
+        },
+        {
           "version": "1.9.3",
           "buildVersion": "14",
           "date": "2026-11-02",
