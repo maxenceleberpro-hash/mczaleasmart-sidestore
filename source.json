@@ -19,8 +19,8 @@
           "version": "1.12",
           "buildVersion": "20",
           "date": "2026-11-08",
-          "localizedDescription": "Nouvelle version",
-          "downloadURL": "https://github.com/maxenceleberpro-hash/mczaleasmart-sidestore/releases/download/v1.12-20/MCZAleaSmart.ipa",
+          "localizedDescription": "Pompe à chaleur (chez Fred) : carte, consignes Confort/Éco, horaires.",
+          "downloadURL": "https://raw.githubusercontent.com/maxenceleberpro-hash/mczaleasmart-sidestore/main/ipa/MCZAleaSmart-1.12-20.ipa",
           "size": 2069388,
           "minOSVersion": "26.0"
         },
