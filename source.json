@@ -16,6 +16,15 @@
       "category": "utilities",
       "versions": [
         {
+          "version": "1.12.2",
+          "buildVersion": "22",
+          "date": "2026-11-08",
+          "localizedDescription": "Pompe à chaleur : coûts (aujourd'hui, 7 jours, mois).",
+          "downloadURL": "https://github.com/maxenceleberpro-hash/mczaleasmart-sidestore/releases/download/v1.12.2-22/MCZAleaSmart.ipa",
+          "size": 2154104,
+          "minOSVersion": "26.0"
+        },
+        {
           "version": "1.12.1",
           "buildVersion": "21",
           "date": "2026-11-08",
