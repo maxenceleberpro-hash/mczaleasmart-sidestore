@@ -20,7 +20,7 @@
           "buildVersion": "19",
           "date": "2026-11-06",
           "localizedDescription": "Nouvelle version",
-          "downloadURL": "https://github.com/maxenceleberpro-hash/mczaleasmart-sidestore/releases/download/v1.11.2-19/MCZAleaSmart.ipa",
+          "downloadURL": "https://raw.githubusercontent.com/maxenceleberpro-hash/mczaleasmart-sidestore/main/ipa/MCZAleaSmart-1.11.2-19.ipa",
           "size": 2043688,
           "minOSVersion": "26.0"
         },
