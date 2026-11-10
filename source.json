@@ -16,6 +16,15 @@
       "category": "utilities",
       "versions": [
         {
+          "version": "1.12.3",
+          "buildVersion": "23",
+          "date": "2026-11-10",
+          "localizedDescription": "Dyson : bloc Direction (Bureau / Chambre, balayage 45° à 350°, angle central)",
+          "downloadURL": "https://github.com/maxenceleberpro-hash/mczaleasmart-sidestore/releases/download/v1.12.3-23/MCZAleaSmart.ipa",
+          "size": 2174122,
+          "minOSVersion": "26.0"
+        },
+        {
           "version": "1.12.2",
           "buildVersion": "22",
           "date": "2026-11-08",
