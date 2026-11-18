@@ -16,6 +16,15 @@
       "category": "utilities",
       "versions": [
         {
+          "version": "1.13.2",
+          "buildVersion": "26",
+          "date": "2026-11-18",
+          "localizedDescription": "Chambre de Fred : la nuit, la vanne reste grande ouverte (sans bruit) pour que la chambre chauffe dès le départ de la PAC le matin.",
+          "downloadURL": "https://github.com/maxenceleberpro-hash/mczaleasmart-sidestore/releases/download/v1.13.2-26/MCZAleaSmart.ipa",
+          "size": 2222437,
+          "minOSVersion": "26.0"
+        },
+        {
           "version": "1.13.1",
           "buildVersion": "25",
           "date": "2026-11-18",
