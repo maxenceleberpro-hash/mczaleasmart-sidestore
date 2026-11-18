@@ -16,6 +16,15 @@
       "category": "utilities",
       "versions": [
         {
+          "version": "1.13.1",
+          "buildVersion": "25",
+          "date": "2026-11-18",
+          "localizedDescription": "Chambre de Fred : nuit silencieuse — vanne fermée de 20h à la première plage du matin, pour que le moteur de la tête ne fasse pas de bruit la nuit.",
+          "downloadURL": "https://github.com/maxenceleberpro-hash/mczaleasmart-sidestore/releases/download/v1.13.1-25/MCZAleaSmart.ipa",
+          "size": 2222280,
+          "minOSVersion": "26.0"
+        },
+        {
           "version": "1.13",
           "buildVersion": "24",
           "date": "2026-11-18",
