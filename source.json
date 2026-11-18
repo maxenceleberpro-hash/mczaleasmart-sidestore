@@ -16,6 +16,15 @@
       "category": "utilities",
       "versions": [
         {
+          "version": "1.13",
+          "buildVersion": "24",
+          "date": "2026-11-18",
+          "localizedDescription": "Chez Fred : carte Chambre sur la page PAC (tête thermostatique Zigbee) — température, Confort/Éco/Arrêt, consignes, horaires, et alerte quand la PAC attend avec proposition de la passer en Confort.",
+          "downloadURL": "https://github.com/maxenceleberpro-hash/mczaleasmart-sidestore/releases/download/v1.13-24/MCZAleaSmart.ipa",
+          "size": 2212651,
+          "minOSVersion": "26.0"
+        },
+        {
           "version": "1.12.3",
           "buildVersion": "23",
           "date": "2026-11-10",
