@@ -16,6 +16,15 @@
       "category": "utilities",
       "versions": [
         {
+          "version": "1.13.3",
+          "buildVersion": "27",
+          "date": "2026-11-18",
+          "localizedDescription": "PAC : l'app voit quand elle chauffe ; plus de fausse alerte sur la chambre.",
+          "downloadURL": "https://github.com/maxenceleberpro-hash/mczaleasmart-sidestore/releases/download/v1.13.3-27/MCZAleaSmart.ipa",
+          "size": 2222554,
+          "minOSVersion": "26.0"
+        },
+        {
           "version": "1.13.2",
           "buildVersion": "26",
           "date": "2026-11-18",
